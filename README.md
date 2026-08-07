@@ -242,5 +242,6 @@ Power BI • Data Analytics • Business Intelligence
 
 Connect with me
 LinkedIn: https://linkedin.com/in/rachel-konadu-gyamfi
+
 GitHub: https://github.com/cyber-rachel
 ---
