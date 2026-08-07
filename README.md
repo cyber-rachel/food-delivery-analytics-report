@@ -236,7 +236,7 @@ QuickBite-PowerBI-Report
 
 ## 👤 Author
 
-**Palmer**
+**Rachel Konadu Gyamfi**
 
 Power BI • Data Analytics • Business Intelligence
 
