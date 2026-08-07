@@ -1,6 +1,6 @@
 # 🍔 QuickBite Food Delivery Analytics Report
 
-An interactive Power BI dashboard that provides comprehensive business intelligence for a fictional food delivery platform, **QuickBite**. The project analyzes revenue, customer behavior, restaurant performance, delivery operations, and executive KPIs to support data-driven decision-making.
+An interactive Power BI report that provides comprehensive business intelligence for a fictional food delivery platform, **QuickBite**. The project analyzes revenue, customer behavior, restaurant performance, delivery operations, and executive KPIs to support data-driven decision-making.
 
 ![QuickBite Homepage](Images/homepage.png)
 ---
