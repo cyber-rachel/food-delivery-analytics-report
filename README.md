@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard that provides comprehensive business intelligence for a fictional food delivery platform, **QuickBite**. The project analyzes revenue, customer behavior, restaurant performance, delivery operations, and executive KPIs to support data-driven decision-making.
 
+![QuickBite Homepage](Images/homepage.png)
 ---
 
 ## 📌 Project Overview
@@ -191,13 +192,13 @@ The project uses a synthetic food delivery dataset containing approximately **20
 ## 📁 Repository Structure
 
 ```
-QuickBite-PowerBI-Dashboard
+QuickBite-PowerBI-Report
 │
 ├── PowerBI
-│   └── QuickBite Dashboard.pbix
+│   └── QuickBite Report.pbix
 │
 ├── Dataset
-│   └── swiggy_portfolio_dataset_20000_rows.csv
+│   └── quickbite_portfolio_dataset_20000_rows.csv
 │
 ├── Images
 │   ├── executive-overview.png
